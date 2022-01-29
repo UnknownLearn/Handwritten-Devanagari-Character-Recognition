@@ -1,1 +1,1 @@
-# Devanagari-Character-Recognition
+# Handwritten-Devanagari-Character-Recognition
